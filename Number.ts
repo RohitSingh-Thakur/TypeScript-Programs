@@ -9,3 +9,14 @@ console.log("Float Number: ", number2);
 console.log("Octal Number: ", number3);
 console.log("Hexa-Decimal Number: ", number4);
 console.log("Binary Number: ", number5);
+
+/*
+Output
+===========================
+Decimal Number:  10
+Float Number:  10.12       
+Octal Number:  83
+Hexa-Decimal Number:  64206
+Binary Number:  10
+
+*/
